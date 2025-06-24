@@ -12,11 +12,6 @@ A React Native mobile application for tracking payments and managing repayment a
 - **Local Storage**: Secure local data persistence using AsyncStorage
 - **Modern UI**: Material Design components with React Native Paper
 
-## Screenshots
-
-![Main window](assets/ss.jpg)
-![Secondary window](assets/ss2.jpg)
-
 ## Technology Stack
 
 - **React Native** - Cross-platform mobile development
