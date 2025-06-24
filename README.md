@@ -14,7 +14,8 @@ A React Native mobile application for tracking payments and managing repayment a
 
 ## Screenshots
 
-*Screenshots would go here*
+![Main window](assets/ss.jpg)
+![Secondary window](assets/ss2.jpg)
 
 ## Technology Stack
 
@@ -37,7 +38,7 @@ A React Native mobile application for tracking payments and managing repayment a
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/PCinkusz/RePay
 cd PaymentTracker
 ```
 
@@ -118,16 +119,6 @@ PaymentTracker/
 4. **Search**: Use the search bar to find specific merchants
 5. **Export Data**: Use the menu to export your data as JSON
 
-## Development
-
-To contribute to this project:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## Building for Production
 
 ```bash
@@ -137,15 +128,3 @@ eas build --platform android
 # Build for iOS
 eas build --platform ios
 ```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please read the contributing guidelines before submitting pull requests.
-
-## Support
-
-If you encounter any issues or have questions, please create an issue in the GitHub repository.
