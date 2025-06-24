@@ -14,9 +14,8 @@ A React Native mobile application for tracking payments and managing repayment a
 
 ## Screenshots
 
-<img src="assets/ss.png" alt="Main window" height="300">
-<img src="assets/ss2.png" alt="Secondary window" height="300">
-
+![Main window](assets/ss.jpg)
+![Secondary window](assets/ss2.jpg)
 
 ## Technology Stack
 
